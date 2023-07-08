@@ -48,7 +48,6 @@ const Home: NextPage = ({ images }: { images: ImageProps[] }) => {
                 <Bridge />
               </span>
             </div>
-            <Logo />
             <h1 className="mt-8 mb-4 text-base font-bold uppercase tracking-widest">
               Image-gallery
             </h1>
